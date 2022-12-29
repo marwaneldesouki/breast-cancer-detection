@@ -9,7 +9,7 @@ and used neural deep learning to build a classifier model to detect the mass and
 
 ## DataSet used
 -[Dataset Link](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset)<br />
-<img src="https://www.researchgate.net/publication/338558131/figure/fig3/AS:962412517793792@1606468433025/CBIS-DDSM-example-images-used-for-detection.jpg" data-canonical-src="https://www.researchgate.net/publication/338558131/figure/fig3/AS:962412517793792@1606468433025/CBIS-DDSM-example-images-used-for-detection.jpg" width="720" height="400" />
+<img src="https://user-images.githubusercontent.com/37198610/209976708-884255cb-5a48-4f90-8918-d4359cab9c7c.png" data-canonical-src="https://user-images.githubusercontent.com/37198610/209976708-884255cb-5a48-4f90-8918-d4359cab9c7c.png" width="720" height="400" />
 
     used mamogram images to make the image processing on it.
     and train the model on 3000 image 250 epoche
