@@ -68,17 +68,20 @@ and used neural deep learning to build a classifier model to detect the mass and
   
 ## GUI
     
-    •Classifier_Page.<br />
-    <img src="https://user-images.githubusercontent.com/37198610/209975749-424d9794-21a6-4a73-b34e-1317eeb19ea8.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975749-424d9794-21a6-4a73-b34e-1317eeb19ea8.PNG" width="720" height="400" />
+    Classifier_Page.
+   <img src="https://user-images.githubusercontent.com/37198610/209975749-424d9794-21a6-4a73-b34e-1317eeb19ea8.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975749-424d9794-21a6-4a73-b34e-1317eeb19ea8.PNG" width="720" height="400" />
     
-    •Classifier_Page if the classifier found cancer.<br />
-    <img src="https://user-images.githubusercontent.com/37198610/209975759-4d260691-e453-4443-8278-ed0e3bdcdca1.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975759-4d260691-e453-4443-8278-ed0e3bdcdca1.PNG" width="720" height="400" />
+    Classifier_Page if the classifier found cancer.
+   <img src="https://user-images.githubusercontent.com/37198610/209975759-4d260691-e453-4443-8278-ed0e3bdcdca1.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975759-4d260691-e453-4443-8278-ed0e3bdcdca1.PNG" width="720" height="400" />
 
-    •Classifier_Page if the classifier did`t found cancer.<br />
-    <img src="https://user-images.githubusercontent.com/37198610/209975761-66e7518b-1373-4e74-9c8d-b321013794ff.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975761-66e7518b-1373-4e74-9c8d-b321013794ff.PNG" width="720" height="400" />
+    Classifier_Page if the classifier did`t found cancer.
+   <img src="https://user-images.githubusercontent.com/37198610/209975761-66e7518b-1373-4e74-9c8d-b321013794ff.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975761-66e7518b-1373-4e74-9c8d-b321013794ff.PNG" width="720" height="400" />
 
-    •ImageProcessing_Page
-    <img src="https://user-images.githubusercontent.com/37198610/209975762-28ee0a01-350c-4a84-87c7-014441352a56.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975762-28ee0a01-350c-4a84-87c7-014441352a56.PNG" width="720" height="400" />
+    ImageProcessing_Page
+    -You can edit in the image
+    Like: erode it,dilate it.
+   <img src="https://user-images.githubusercontent.com/37198610/209975762-28ee0a01-350c-4a84-87c7-014441352a56.PNG" data-canonical-src="https://user-images.githubusercontent.com/37198610/209975762-28ee0a01-350c-4a84-87c7-014441352a56.PNG" width="720" height="400" />
+   
 
 
 ## Developer
