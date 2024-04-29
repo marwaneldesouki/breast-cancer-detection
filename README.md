@@ -12,7 +12,7 @@ and used neural deep learning to build a classifier model to detect the mass and
 <img src="https://user-images.githubusercontent.com/37198610/209976708-884255cb-5a48-4f90-8918-d4359cab9c7c.png" data-canonical-src="https://user-images.githubusercontent.com/37198610/209976708-884255cb-5a48-4f90-8918-d4359cab9c7c.png" width="720" height="400" />
 
     used mamogram images to make the image processing on it.
-    and train the model on 3000 image 250 epoche
+    and train the model on 3000 image 15 epoche
 
 
 ## Libraries used
